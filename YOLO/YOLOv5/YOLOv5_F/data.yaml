@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 83
+names: ['apple', 'apricot', 'asparagus', 'avocado', 'bacon', 'banana', 'bean', 'beef', 'blackberry', 'blueberry', 'bread', 'broccoli', 'butter', 'cabbage', 'candy', 'carrot', 'cashew', 'cauliflower', 'celery', 'cheese', 'chicken breast', 'chicken thigh', 'chicken wing', 'chicken', 'chili', 'chilli', 'chocolate', 'coconut', 'cookie', 'corn', 'cream', 'cucumber', 'egg', 'eggplant', 'fennel', 'fig', 'fish', 'flour', 'garlic', 'ginger', 'grape', 'grapefruit', 'ham', 'icecream', 'kiwi', 'lamb', 'leek', 'lemon', 'lettuce', 'lime', 'mango', 'meatball', 'milk', 'mushroom', 'noodle', 'noodles', 'oil', 'onion', 'orange', 'pea', 'peach', 'pear', 'pepper', 'pineapple', 'pork', 'potato', 'pumpkin', 'radish', 'rib', 'rice', 'salmon', 'salt', 'sausage', 'spinach', 'spring onion', 'strawberry', 'sugar', 'sweet potato', 'tofu', 'tomato', 'watermelon', 'yogurt', 'zucchini']
+
+roboflow:
+  workspace: wonkeun-jung-rbg1y
+  project: ingredients-detector-tqvxr
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wonkeun-jung-rbg1y/ingredients-detector-tqvxr/dataset/3

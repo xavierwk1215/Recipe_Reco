@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 117
+names: ['-', 'Apple', 'Banana', 'Cucumber', 'Orange', 'Tomato', 'apple', 'asparagus', 'avocado', 'banana', 'bean_sprout', 'beef', 'bell_pepper', 'bento', 'blueberries', 'bottle', 'bread', 'broccoli', 'butter', 'can', 'carrot', 'cauliflower', 'cheese', 'cherry', 'chicken', 'chicken_breast', 'chocolate', 'coffee', 'corn', 'cream-cheese', 'cucumber', 'dates', 'egg', 'eggplant', 'eggs', 'energy_drink', 'fish', 'fish_cake', 'flour', 'garlic', 'ginger', 'goat_cheese', 'grape', 'grapefruit', 'grapes', 'grated_cheese', 'green-chillies', 'green_beans', 'ground_beef', 'guacamole', 'ham', 'heavy_cream', 'humus', 'juice', 'ketchup', 'kimchi', 'kiwi', 'leek', 'lemon', 'lettuce', 'lime', 'mango', 'marmelade', 'mayonaise', 'milk', 'mint', 'mushroom', 'mushrooms', 'mustard', 'nuts', 'olives', 'onion', 'orange', 'pak_choi', 'parsley', 'peach', 'pear', 'peas', 'pepper', 'pickles', 'pineapple', 'plasticsaveholder', 'pomegrante', 'pork', 'pot', 'potato', 'potatoes', 'pudding', 'raddish', 'radish', 'red_cabbage', 'red_grapes', 'red_onion', 'rice_ball', 'rice_cake', 'salad', 'salami', 'sandwich', 'sausage', 'shrimp', 'smoothie', 'spinach', 'spring_onion', 'strawberries', 'sugar', 'sweet_potato', 'tangerine', 'tea_a', 'tea_i', 'tofu', 'tomato', 'tomato_sauce', 'tortillas', 'turkey', 'watermelon', 'yogurt', 'zucchini']
+
+roboflow:
+  workspace: dsstudy
+  project: food-ingredients-8e8pk
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/dsstudy/food-ingredients-8e8pk/dataset/3

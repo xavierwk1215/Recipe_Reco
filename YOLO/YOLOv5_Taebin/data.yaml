@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 19
+names: ['Apple', 'Banana', 'Broccoli', 'Cabbage', 'Cantaloupe', 'Carrot', 'Cucumber', 'Egg', 'Grape', 'Lemon', 'Mango', 'Mushroom', 'Orange', 'Peach', 'Pear', 'Pineapple', 'Potato', 'Pumpkin', 'Tomato']

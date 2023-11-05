@@ -1,0 +1,13 @@
+prefix=g:/내 드라이브/ds_study/DL_team_4/DataSet/YOLOv5_Taebin3/.conda/Library
+exec_prefix=g:/내 드라이브/ds_study/DL_team_4/DataSet/YOLOv5_Taebin3/.conda/Library
+libdir=g:/내 드라이브/ds_study/DL_team_4/DataSet/YOLOv5_Taebin3/.conda/Library/lib
+sharedlibdir=g:/내 드라이브/ds_study/DL_team_4/DataSet/YOLOv5_Taebin3/.conda/Library/lib
+includedir=g:/내 드라이브/ds_study/DL_team_4/DataSet/YOLOv5_Taebin3/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
