@@ -27,4 +27,3 @@
 ![DL_Eng_page-0026](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/49e26e87-4795-42b2-8776-ab60884f6a1d)
 ![DL_Eng_page-0027](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/69d94257-de18-4ada-a47f-b8cf1b109d2b)
 ![DL_Eng_page-0028](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/4bb0831c-244e-423d-bd91-4e056d34eb96)
-![DL_Eng_page-0029](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/91878835-82a2-4573-9c99-13ffabe1d13d)
